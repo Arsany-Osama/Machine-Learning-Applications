@@ -66,3 +66,14 @@ This repository contains several machine learning applications demonstrating var
 Ensure you have the following software installed:
 * Python 3.x
 * Jupyter Notebook or any.py editor
+
+    [contributors-shield]: https://img.shields.io/github/contributors/Arsany-Osama/Machine-Learning-Applications.svg?style=for-the-badge
+[contributors-url]: https://github.com/Arsany-Osama/Machine-Learning-Applications/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Arsany-Osama/Machine-Learning-Applications.svg?style=for-the-badge
+[forks-url]: https://github.com/Arsany-Osama/Machine-Learning-Applications/network/members
+[stars-shield]: https://img.shields.io/github/stars/Arsany-Osama/Machine-Learning-Applications.svg?style=for-the-badge
+[stars-url]: https://github.com/Arsany-Osama/Machine-Learning-Applications/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Arsany-Osama/Machine-Learning-Applications.svg?style=for-the-badge
+[issues-url]: https://github.com/Arsany-Osama/Machine-Learning-Applications/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/arsany-osama-446942264
